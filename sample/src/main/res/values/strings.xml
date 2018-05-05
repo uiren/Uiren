@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Material View Pager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="other_word_label">Other word</string>
+    <string name="learned_label">Learned</string>
+</resources>

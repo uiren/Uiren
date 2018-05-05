@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "64690182709",
+    "firebase_url": "https://uiren12345.firebaseio.com",
+    "project_id": "uiren12345",
+    "storage_bucket": "uiren12345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64690182709:android:a23d01de03a4afd2",
+        "android_client_info": {
+          "package_name": "com.github.florent37.materialviewpager.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64690182709-ml6baa7502hdu5ibbi9r5cj3ij2vv1j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxLq1FEn07LX5uvI_aIvhe3sExQ-4r3IE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
